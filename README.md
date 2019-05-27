@@ -1,7 +1,7 @@
 ___
 ## Challenge Task-Cloud9: Running your image on Fargate
 
-The work of Developers normally ends by sending the image to the repository. However, to see the full picture, you will be deploying your image on a Fargate cluster. You will first create a Cluster, create a Task definition of your container and create a service that will launch your Task on your Cluster.
+The work of Developers normally ends by sending the container image to the repository. However, to see the full picture, you will be deploying your container image on a Fargate cluster. You will first create a Cluster, create a Task definition of your container and create a service that will launch your Task on your Cluster.
 
 1. Create an ECS cluster by running the following command:
 
